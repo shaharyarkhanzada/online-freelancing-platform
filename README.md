@@ -11,7 +11,7 @@ How to run the online freelancing platform Project using PHP and MySQL
 
 6. Import ofrsdb.sql filer)
 
-7. Run the script http://localhost/ofrs
+7. Run the script http://localhost/ofrss
  use this
 Username: admin
 Password: Test@123
